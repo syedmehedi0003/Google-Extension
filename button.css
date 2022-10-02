@@ -1,0 +1,36 @@
+button {
+    height: 40px;
+    width: 40px;
+    outline: none;
+    border: 5px solid red;
+    margin: 20px;
+    border-radius: 2px;
+    margin: 0 auto;
+    display: flex;
+
+}
+
+#greet {
+    color: blueviolet;
+}
+
+#clock {
+    font-size: 20px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.mehedi {
+    width: 200px;
+    text-align: center;
+}
+
+/* button.current {
+
+    box-shadow: 0 0 0 2px white,
+
+        0 0 0 4px black;
+
+} */
